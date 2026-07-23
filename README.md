@@ -32,3 +32,5 @@ npm run preview # preview the production build
 ## Editing content
 
 All resume content lives in [`src/data.ts`](src/data.ts) — update that one file to change the profile, competencies, experience, projects, skills, or education.
+
+[Live](https://iam-nazmul.github.io/portfolio/)
