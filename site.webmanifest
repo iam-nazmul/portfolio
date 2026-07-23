@@ -1,0 +1,18 @@
+{
+  "name": "Md. Nazmul Hossain — Senior Full-Stack Software Engineer",
+  "short_name": "Nazmul Hossain",
+  "description": "Portfolio of Md. Nazmul Hossain — Senior Full-Stack Software Engineer.",
+  "start_url": "/portfolio/",
+  "scope": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "icons": [
+    {
+      "src": "/portfolio/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
