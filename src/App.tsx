@@ -104,7 +104,7 @@ function Nav() {
         </div>
 
         <a
-          href={`mailto:${profile.email}`}
+          href="#contact"
           className="group hidden items-center gap-1.5 rounded-full bg-gradient-to-r from-brand-500 to-indigo-500 px-4 py-2 text-sm font-medium text-white shadow-lg shadow-brand-500/20 transition hover:shadow-brand-500/40 md:inline-flex"
         >
           Hire me <Icons.arrow className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
@@ -135,7 +135,7 @@ function Nav() {
               </a>
             ))}
             <a
-              href={`mailto:${profile.email}`}
+              href="#contact"
               onClick={() => setOpen(false)}
               className="mt-1 inline-flex items-center justify-center gap-1.5 rounded-lg bg-gradient-to-r from-brand-500 to-indigo-500 px-4 py-2.5 text-sm font-medium text-white"
             >
