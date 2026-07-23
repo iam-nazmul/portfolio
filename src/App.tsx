@@ -32,7 +32,7 @@ function Nav() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <a href="#top" className="group flex items-center gap-2 font-semibold text-white">
           <span className="grid h-9 w-9 place-items-center rounded-lg bg-brand-500 text-sm font-bold text-white shadow-lg shadow-brand-500/30">
-            MD.
+            NH
           </span>
           <span className="hidden text-sm tracking-wide sm:block">Nazmul Hossain</span>
         </a>
