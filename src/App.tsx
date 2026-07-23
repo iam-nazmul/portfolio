@@ -506,7 +506,11 @@ export default function App() {
   useReveal()
   return (
     <div className="relative min-h-screen">
-      <div className="aurora" />
+      <div className="aurora">
+        <span className="aurora-blob aurora-blob-1" />
+        <span className="aurora-blob aurora-blob-2" />
+        <span className="aurora-blob aurora-blob-3" />
+      </div>
       <div className="grain" />
       <ScrollProgress />
       <Nav />
