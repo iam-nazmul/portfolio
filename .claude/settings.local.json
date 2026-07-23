@@ -4,7 +4,11 @@
       "Bash(npm install *)",
       "Bash(npm run *)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
-      "Bash(pkill -f \"vite\")"
+      "Bash(pkill -f \"vite\")",
+      "Bash(git config *)",
+      "Bash(echo \"user.name: $\\(git config --global user.name\\)\")",
+      "Bash(echo \"user.email: $\\(git config --global user.email\\)\")",
+      "Bash(git -C /home/nazmul/Desktop/portfolio remote -v)"
     ]
   }
 }
